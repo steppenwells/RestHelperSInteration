@@ -1,6 +1,6 @@
 This is a copy of the simplylift rest hepler example
 with an additional set of endpoints that interact with
-the S object. These are defined in the SInteractingHelper
+the S object. These are defined in the src/main/scala/cod/lib/SInteractingHelper
 object. There are 3 examples, one of which does
 not work as expected:
 
